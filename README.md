@@ -1,6 +1,6 @@
 # The Challenge
 
-The challenge is to create a .NET Core web API (using any sort of boilerplate, something like dotnet create webapi is fine) that will interface with a React frontend, providing it the necessary data. Feel free to use any additional Nuget packages to accomplish your goal as you see fit.
+The challenge is to create a .NET Core web API (using any sort of boilerplate, something like dotnet new webapi is fine) that will interface with a React frontend, providing it the necessary data. Feel free to use any additional Nuget packages to accomplish your goal as you see fit.
 
 ## Requirements
 
